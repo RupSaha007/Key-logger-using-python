@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "script.sh", 0, True
